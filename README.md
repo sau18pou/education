@@ -1,2 +1,2 @@
 # education
-educational websitr
+educational website
